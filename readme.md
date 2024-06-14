@@ -43,7 +43,30 @@ lo cual es lo mismo que escribir el codigo de forma especifica
 # INSERTAR VIDEO E IMAGEN
 
 1. video 
-   con la etiqueta <video>
+   con la etiqueta video
 2. imagen
-   con la etiqueta <imagen>
+   con la etiqueta imagen
 
+# IMAGENES
+FORMATO TIPO RENDER:
+1. JPG
+2. PMG
+3. GIT
+
+TIPO VECTORIAL:
+1. XML
+2. SVG
+
+por mas que se alargue o se achique, en tema de calidad siempre se mantiene igual.
+
+# FORMULARIOS 
+El formulario va dentro de la etiqueta form
+dentro se atribuye la etiqueta input, donde se especifica lo que se requiere, ya sea: 
+1. text
+2. color
+3. email
+4. password
+5. checkbox
+6. submit
+7. file
+8. date
